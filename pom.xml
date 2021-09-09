@@ -21,9 +21,6 @@
             <url>https://maven.pkg.github.com/nicasav/multiplication</url>
         </repository>
     </distributionManagement>
-
-
-
     <groupId>nicasav</groupId>
     <artifactId>multiplication</artifactId>
     <version>1.0-SNAPSHOT</version>
